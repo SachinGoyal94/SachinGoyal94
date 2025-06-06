@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkyMDQzOTUsIm5iZiI6MTc0OTIwNDA5NSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA2VDEwMDEzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyYzEwMDZiMmU1ZGRhNThkZWIzNjUzYjA4NWRjYWNlYTAzNWI2NDA4MjIxNDU1ZGE0NDJmZGQwOWViYjE1N2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8FNiOxsGlwjE-N_U1KaeB8747EC57CsXen0n_x6qgeM"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
   <img width="12" />
@@ -26,6 +22,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDkyMDQzOTUsIm5iZiI6MTc0OTIwNDA5NSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjA2VDEwMDEzNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYyYzEwMDZiMmU1ZGRhNThkZWIzNjUzYjA4NWRjYWNlYTAzNWI2NDA4MjIxNDU1ZGE0NDJmZGQwOWViYjE1N2QmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.8FNiOxsGlwjE-N_U1KaeB8747EC57CsXen0n_x6qgeM"  />
 
 ###
 
@@ -45,6 +45,11 @@
 
 <br clear="both">
 
+<p align="left">Building AI that thinks, databases that breathe, and code that just works. <br>C++ for logic, Python for magic, SQL for structure. Always shipping, always learning</p>
+
+###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/SachinGoyal94/SachinGoyal94/output/snake.svg" alt="Snake animation" />
 
