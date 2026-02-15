@@ -27,7 +27,7 @@
         </ul>
         <br/>
         <strong>🌐 Personal Website: </strong>
-        <a href="https://sachingoyal94.github.io/website/" target="_blank">https://sachingoyal94.github.io/website/</a>
+        <a href="https://sachingoyal.vercel.app/" target="_blank">https://sachingoyal.vercel.app</a>
       </td>
       <td valign="center" width="40%">
         <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Gif" />
