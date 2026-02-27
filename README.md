@@ -106,8 +106,8 @@
 
 | Project | Description | Tech Stack | 🔗 Links |
 | :--- | :--- | :--- | :---: |
-| **🤖 Persona AI Studio** <br>*(Google Capstone)* | **Agentic AI platform** for creating custom AI personas. Built with **persistent memory** and specific agents for Context, Character, and Moderation. | `Gemini 2.0` `FastAPI` `TiDB` | [Code](https://github.com/SachinGoyal94) <br> [Demo](https://persona-team-fe.hf.space/) |
-| **🛠️ AI Automation Suite** | Productivity suite featuring a **Course Generator** and **NL-to-SQL Chatbot**. Automates workflows using RAG and intelligent agents. | `Agentic AI` `RAG` `Python` | [Code](https://github.com/SachinGoyal94) <br> [Demo](https://my-ai-mitra.vercel.app/) |
+| **🤖 Persona AI Studio** <br>*(Google Capstone)* | **Agentic AI platform** for creating custom AI personas. Built with **persistent memory** and specific agents for Context, Character, and Moderation. | `Gemini 2.0` `FastAPI` `TiDB` | [Code](https://github.com/Team-Persona-Studio/google-kaggle-capstone) <br> [Demo](https://persona-team-fe.hf.space/) |
+| **🛠️ AI Automation Suite** | Productivity suite featuring a **Course Generator** and **NL-to-SQL Chatbot**. Automates workflows using RAG and intelligent agents. | `Agentic AI` `RAG` `Python` | [Code](https://github.com/SachinGoyal94/NexaGen) <br> [Demo](https://my-ai-mitra.vercel.app/) |
 | **🚗 Vehicle Detection** | Real-time vehicle detection pipeline using computer vision. Optimized for speed/accuracy. | `OpenCV` `YOLOv8` | [Code](https://github.com/SachinGoyal94/Open-CV-Vehicle-Detection) |
 | **⚠️ Rockfall Safety** <br>*(SIH Hackathon)* | IoT-based safety system for open-pit mines. Real-time risk maps and automated alerts. | `IoT` `React` `ML` | [Code](#) <br> [Demo](#) |
 
