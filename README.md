@@ -148,8 +148,8 @@
 <div align="center">
   <h2>📈 GitHub Analytics</h2>
 
-  <img height="180em" src="https://sachingoyal-stats.vercel.app/api?username=SachinGoyal94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://sachingoyal-stats.vercel.app/api/top-langs/?username=SachinGoyal94&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://sachingoyal-stats.vercel.app/api?username=SachinGoyal94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_bust=1" alt="GitHub Stats" />
+  <img height="180em" src="https://sachingoyal-stats.vercel.app/api/top-langs/?username=SachinGoyal94&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_bust=1" alt="Top Languages" />
 
   <br/><br/>
 
