@@ -156,15 +156,6 @@
   <img src="https://streak-stats.demolab.com/?user=SachinGoyal94&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br/>
-
-<!-- ====================== TROPHIES ====================== -->
-<div align="center">
-  <h2>🏆 Trophy Case</h2>
-  <img src="https://sachingoyal-trophy.vercel.app/?username=SachinGoyal94&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" width="100%" />
-</div>
-
-<br/>
 
 <!-- ====================== ACTIVITY GRAPH ====================== -->
 <div align="center">
