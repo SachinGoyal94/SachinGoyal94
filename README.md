@@ -148,8 +148,8 @@
 <div align="center">
   <h2>📈 GitHub Analytics</h2>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SachinGoyal94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinGoyal94&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://sachingoyal-stats.vercel.app/api?username=SachinGoyal94&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180em" src="https://sachingoyal-stats.vercel.app/api/top-langs/?username=SachinGoyal94&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
   <br/><br/>
 
@@ -161,7 +161,7 @@
 <!-- ====================== TROPHIES ====================== -->
 <div align="center">
   <h2>🏆 Trophy Case</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=SachinGoyal94&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" width="100%" />
+  <img src="https://sachingoyal-trophy.vercel.app/?username=SachinGoyal94&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" width="100%" />
 </div>
 
 <br/>
